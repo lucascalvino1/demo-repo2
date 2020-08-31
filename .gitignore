@@ -1,1 +1,4 @@
 ide-config*
+/config/
+.class
+/node_modules/
